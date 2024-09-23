@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+    <a href="https://app.daily.dev/databreach82">
+        <img src="https://api.daily.dev/devcards/v2/Ce2QPNpttas1xjmWUqzVc.png?type=default&r=s5t" width="356" alt="data_breach's Dev Card"/>
+    </a>
+</div>
+<br>
 
-<!--
-**ramoj745/ramoj745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m not working on any projects at the moment, but plan to start one after learning more about JavaScript.
+- 🌱 I’m currently learning JavaScript and will soon dive into Node.js, Express, and React.
+- 💻 I currently have experience with: HTML, CSS, Flexbox, Grid, Bootstrap, and Python.
+- 👯 I’m looking to collaborate on large codebases to gain experience in collaborative work environments.
+- 🤔 I’m looking for help with expanding my skills in JavaScript, backend development, and full-stack project setups.
+- ⚡ Fun fact: I also do music production aside from web development!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
