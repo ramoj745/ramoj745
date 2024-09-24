@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://app.daily.dev/databreach82"><img src="https://api.daily.dev/devcards/v2/Ce2QPNpttas1xjmWUqzVc.png?type=default&r=s5t" width="356" alt="data_breach's Dev Card"/></a>
+    <a href="https://app.daily.dev/databreach82"><img src="https://api.daily.dev/devcards/v2/Ce2QPNpttas1xjmWUqzVc.png?type=wide&r=rbc" width="652" alt="data_breach's Dev Card"/></a>
 </div>
 
 ### Hi there, I'm Ram! 👋
