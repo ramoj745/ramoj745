@@ -5,10 +5,10 @@
 ### Hi there, I'm Ram! 👋
 <hr>
 
-- 🔭 I’m not working on any projects at the moment, but plan to start one after learning more about JavaScript.
-- 🌱 I’m currently learning JavaScript and will soon dive into Node.js, Express, and React. I'm also planning to incorporate my existing knowledge in Python with backend development.
-- 💻 I currently have experience with: HTML, CSS, Javascript, Bootstrap, and Python.
-- 👯 I’m looking to work large codebases to gain experience in collaborative work environments.
+- 🔭 Not working on any projects at the moment, but learning continously!
+- 🌱 I’m currently learning about backend tech, Node.js, and Express. I'm also planning to incorporate my existing knowledge in Python with backend development.
+- 💻 My current tech stack: HTML, CSS, JavaScript, Python, Bootstrap.
+- 👯 I’m looking to work on large codebases to gain experience in collaborative work environments.
 - 🤔 I’m looking for help with expanding my skills in JavaScript, backend development, and full-stack project setups.
 - ⚡ Fun fact: I also do music production aside from web development! :)
 
