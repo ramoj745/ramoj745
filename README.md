@@ -5,7 +5,7 @@
 ### Hi there, I'm Ram! 👋
 <hr>
 
-- 🔭 Not working on any projects at the moment, but learning continously!
+- 🔭 Currently working on a new project, a twitter-like site complete with frontend and backend functionalities, with database implementation.
 - 🌱 I’m currently learning about backend tech, Node.js, and Express. I'm also planning to incorporate my existing knowledge in Python with backend development.
 - 💻 My current tech stack: HTML, CSS, JavaScript, Python, Bootstrap.
 - 👯 I’m looking to work on large codebases to gain experience in collaborative work environments.
