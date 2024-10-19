@@ -5,7 +5,7 @@
 ### Hi there, I'm Ram! 👋
 <hr>
 
-- 🔭 Not working on any projects at the moment.
+- 🔭 Working on <a href="https://github.com/ramoj745/consolify">Consolify: Your GitHub stats, served in a terminal.</a>
 - 🌱 I’m currently learning about backend tech, Node.js, and Express. I'm also planning to incorporate my existing knowledge in Python with backend development.
 - 💻 My current tech stack: HTML, CSS, JavaScript, Python, Bootstrap, ExpressJS, NodeJS, and MongoDB.
 - 👯 I’m looking to work on large codebases to gain experience in collaborative work environments.
