@@ -6,7 +6,7 @@
 <hr>
 
 - 🔭 Finished working on <a href="https://github.com/ramoj745/Rebook">Rebook: Your Guide To Better Books</a>. Check it out!
-- 🌱 I’m currently learning about relational databases like PostgreSQL.
+- 🌱 Diving deep into learning ReactJS and other front-end frameworks.
 - 💻 My current tech stack: HTML, CSS, JavaScript, Python, Bootstrap, ExpressJS, NodeJS, PostgreSQL, and MongoDB.
 - 👯 I’m looking to work on large codebases to gain experience in collaborative work environments.
 - 🤔 I’m looking for help with expanding my skills in JavaScript, backend development, and full-stack project setups.
