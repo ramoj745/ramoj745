@@ -7,7 +7,7 @@
 
 - 🔭 Finished working on <a href="https://github.com/ramoj745/dispochat-react">DispoChat: Disposable Chat Rooms, at your service</a>
 - 🌱 Diving deep into learning ReactJS and other front-end frameworks.
-- 💻 My current tech stack: HTML, CSS, JavaScript, Python, Bootstrap, ExpressJS, NodeJS, PostgreSQL, and MongoDB.
+- 💻 My current tech stack: HTML, CSS, JavaScript, Python, React, Bootstrap, ExpressJS, NodeJS, PostgreSQL, and MongoDB.
 - 👯 I’m looking to work on large codebases to gain experience in collaborative work environments.
 - 🤔 I’m looking for help with expanding my skills in JavaScript, backend development, and full-stack project setups.
 - ⚡ Fun fact: I also do music production aside from web development! :)
