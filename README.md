@@ -19,7 +19,7 @@ I'm open to new opportunities including meaningful projects, internships, and co
 
 ---
 
-![Role](https://img.shields.io/badge/🎯_Role-Backend_Developer-blue?style=flat-square)
+![Role](https://img.shields.io/badge/🎯_Role-Backend_Developer_@_PSPACE_LTD-blue?style=flat-square)
 ![Education](https://img.shields.io/badge/🎓_Mapúa%20Malayan%20Colleges%20Laguna-red?style=flat-square)
 ![Status](https://img.shields.io/badge/💼_Open_to_Opportunities-brightgreen?style=flat-square)
 
