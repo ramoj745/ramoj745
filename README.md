@@ -14,7 +14,7 @@ I'm open to new opportunities including meaningful projects, internships, and co
 
 <b>Technologies I use:</b>  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,bootstrap,nodejs,express,flask,postgres,mongodb,sqlite" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,react,bootstrap,nodejs,express,flask,postgres,mongodb,sqlite" alt="Tech Stack" />
 </div>
 
 ---
